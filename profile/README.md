@@ -3,6 +3,7 @@
 ### What
  - Eliminate microcontrolers using an FPGA
 
+
 ### Why
 - Lower development costs
     -  No uC firmware
@@ -20,15 +21,14 @@
     - Off the shelf Linux drivers/API
     - Off the shelf schematics
 - Traditional Linux real-time control
-    - microcontroller, usually more than one
+    - microcontroller, often more than one
     - custom hardware required
     - custom uC software required
     - custom Linux interface required
     - custom Linux API required
 
 
-### HOW
-- Replace your uC with an FPGA
+### How
 - Buy an FPGA dev card with Pmod connectors
 - Select Pmod cards for your applicaiton
 - Visit https://demandperipherals.com/build to select peripherals
