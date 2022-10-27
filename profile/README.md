@@ -13,19 +13,19 @@
     -  Just one FPGA with lots of IO and no real-time constraints
     -  Low end FPGA, ~4000 LUTs, no LVDS needed
     -  No need for FPGA flash, download from Linux at boot
-- Off-the-Shelf
-    - Off the shelf FPGA dev boards
-    - Off the shelf Pmod modules (200+)
-    - Off the shelf Wishbone peripheral per Pmod
-    - Off the shelf Linux interface and protocol
-    - Off the shelf Linux API with simple publish/subscribe
-    - Off the shelf schematics
-- Traditional Linux real-time control
-    - microcontroller, often more than one
+- Traditional Linux real-time control is expensive
+    - microcontroller (often more than one)
     - custom hardware required
     - custom uC software required
     - custom Linux interface required
     - custom Linux API required
+- Peripheral Control is Off-the-Shelf
+    - Off the shelf FPGA dev boards
+    - Off the shelf Pmod modules (200+)
+    - Off the shelf Wishbone peripheral per Pmod
+    - Off the shelf Linux interface and host protocol
+    - Off the shelf Linux API with simple publish/subscribe
+    - Off the shelf schematics
 
 
 ### How
