@@ -33,7 +33,7 @@
 - Select Pmod cards for your applicaiton
 - Visit https://demandperipherals.com/build to select peripherals
     -  Portal backend software links all peripherals in FPGA image
-    -  Peripheral list -> Makefile -> binary.  (No IDE needed)
     -  Receives FPGA binary in email
+    -  Or build yourself from sources and a our Makefiles
 - Install pcdaemon to get Linux API to peripherals
 - Possible to get an "API complete" system in an hour
