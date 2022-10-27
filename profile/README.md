@@ -17,8 +17,8 @@
     - Off the shelf FPGA dev boards
     - Off the shelf Pmod modules (200+)
     - Off the shelf Wishbone peripheral per Pmod
-    - Off the shelf Linux interface
-    - Off the shelf Linux drivers/API
+    - Off the shelf Linux interface and protocol
+    - Off the shelf Linux API with simple publish/subscribe
     - Off the shelf schematics
 - Traditional Linux real-time control
     - microcontroller, often more than one
