@@ -1,10 +1,9 @@
-## The Peripheral Control Project
+## What
+- Eliminate microcontrolers using an FPGA
 
-### What
- - Eliminate microcontrolers using an FPGA
+<br>
 
-
-### Why
+## Why
 - Lower development costs
     -  No uC firmware
     -  No need to learn FPGAs, Verilog, tool chains, or drivers
@@ -27,8 +26,9 @@
     - Off the shelf Linux API with simple publish/subscribe
     - Off the shelf schematics
 
+<br>
 
-### How
+## How
 - Buy an FPGA dev card with Pmod connectors
 - Select Pmod cards for your applicaiton
 - Visit https://demandperipherals.com/build to select peripherals
@@ -37,3 +37,9 @@
     -  Or build yourself from sources and a our Makefiles
 - Install pcdaemon to get Linux API to peripherals
 - Possible to get an "API complete" system in an hour
+
+<br>
+
+<img src=repoes.svg height=240 border=1>
+
+<br>
