@@ -31,7 +31,7 @@
 ## How
 - Buy an FPGA dev card with Pmod connectors
 - Select Pmod cards for your applicaiton
-- Visit https://demandperipherals.com/build to select peripherals
+- Visit https://demandperipherals.com/support/build_fpga.html  to select peripherals
     -  Portal backend software links all peripherals in FPGA image
     -  Receives FPGA binary in email
     -  Or build yourself from sources and a our Makefiles
