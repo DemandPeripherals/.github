@@ -1,5 +1,5 @@
 ## What
-- Eliminate microcontrolers using an FPGA
+- Eliminate microcontrollers using an FPGA
 
 <br>
 
@@ -20,8 +20,8 @@
     - custom Linux API required
 - Peripheral Control is Off-the-Shelf
     - Off the shelf FPGA dev boards
-    - Off the shelf Pmod modules (200+)
-    - Off the shelf Wishbone peripheral per Pmod
+    - Off the shelf Pmod modules
+    - Off the shelf Wishbone peripheral
     - Off the shelf Linux interface and host protocol
     - Off the shelf Linux API with simple publish/subscribe
     - Off the shelf schematics
@@ -31,10 +31,10 @@
 ## How
 - Buy an FPGA dev card with Pmod connectors
 - Select Pmod cards for your applicaiton
-- Visit https://demandperipherals.com/support/build_fpga.html  to select peripherals
+- Visit https://demandperipherals.com/support/build_fpga.html to select peripherals
     -  Portal backend software links all peripherals in FPGA image
     -  Receives FPGA binary in email
-    -  Or build yourself from sources and a our Makefiles
+    -  Or build yourself from sources and our Makefiles
 - Install pcdaemon to get Linux API to peripherals
 - Possible to get an "API complete" system in an hour
 
